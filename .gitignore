@@ -1,0 +1,5 @@
+.env
+node_modules/
+images/
+breedData.json
+.DS_Store
